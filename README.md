@@ -1,4 +1,4 @@
-<img align="left" alt="Subash Poudel" width="100px" src="https://media.giphy.com/media/9kzo8sw3OvXbQNBd02/giphy-downsized-large.gif" />
+<img align="left" alt="Subash Poudel" width="100px" src="./image/giphy.gif" />
 
 ## &nbsp; Hi there, It's **Subash Poudel** <img src="./image/Hello.png" width="100px">
 
