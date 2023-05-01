@@ -24,8 +24,6 @@
 
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-[!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=phoenixsubash.phoenixsubash)](https://github.com/phoenixsubash)
-[!["Followers"](https://img.shields.io/github/followers/phoenixsubash?label=Follow&style=social)](https://github.com/phoenixsubash)
 
 <!-- ## __:zap: GitHub Stats__ -->
 <!-- ![Wakatime Status](https://github-readme-stats.phoenixsubash.vercel.app/api/wakatime?username=phoenixsubash) --
